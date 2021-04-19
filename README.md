@@ -9,15 +9,17 @@ The process was created by data inspection, merging data sets, performing variou
 - **PyBer Summary DataFrame** 
 ![summarydataframe.png](https://github.com/italiacardenas/PyBer_Analysis/blob/ca6aff57f9c72cfac747f28dab53d8889741735f/readmescreenshots/summary_dataframe.png)
 
+The Pyber Summary DataFrame shows that the cost to use PyBer in rural cities is significantly higher for the user, most likely due to the lower amount of total drivers and total rides. The average fare per driver is roughly 3 times lower in urban cities. The demand for rides in urban cities is 13 times that of a rural city.The summary dataframe also shows that urban cities are the only ones where the total drivers outweigh  the total rides whcih explains why the average fare per driver in urban cities is so low. 
+
 - **PyBer Fare Summary Chart:** 
 ![Pyber_fare_summary.png](https://github.com/italiacardenas/PyBer_Analysis/blob/55598d7663b358d387f8314ea67175cf6990647d/analysis/Pyber_fare_summary.png)
 
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-The Pyber Summary DataFrame shows that 
+The PyBer Fare summary chart shows the trends in fare prices for the mo0nths January to April in 2019. The chart shows spikes in fare for all three city types during late February and dips in all three for the fare prices befor ethose spikes. The total fare for rural cities is significantly lower than total fares for urban and suburban. With the exception of th espike in April, rural cities total fare remains just under 500. After the spike the three experience in late February, suburban cities' total fare seems to decline and stay under 1500 and begins to spike again late rin April. Contrary to the trend in suburban cities for late April, urban cirties' total fare begins to decline during that period. Urban total fare ifluctuates the most with various quick increases and decreaes during the month of March. 
 
-## School District Analysis Summary
-Four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
-1. Total Students - Because the scores for ninth grade students were replaced with NaN the total students count went from 39,170 to 38,709. This adjustment caused a significant impact in the rest of the data analysis.
-2. Charter School data - Thomas High School is a charter school, therefore data regarding the school type also experienced a change.
-3. Thomas High School - Average Reading Score - removing the ninth grade reading scores caused an increase in the Average Reading Score by .05.
-4. Thomas High School - Overall Passing Percentage - removing the ninth grade reading scores caused a significant decrease in the Overall Passing Percentage by (.32).
+## PyBer Analysis Summary
+Three business recommendations to the CEO for addressing any disparities among the city types.:
+1. Limit the number of drivers in urban cities. The total number of drivers in urban cities is almost 1.5 times greater than the total rides. This causes the urban driver to make less per ride, while dealing with a lot of other factors ie, traffic, city people.
+2. Encourage more ride sharing in rural areas. The total rides for the months of January - April for rural cities is 30 times less than urban cities and 6 times less than suburban areas. If PyBer could be the first ride sharing company to change this trend, they would be ahead of the game! 
+3. One way to try and balance the disparities would be by encouraging drivers in Urban areas to work in suburban areas.
+
