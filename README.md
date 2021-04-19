@@ -6,14 +6,14 @@ This is an exploratory analysis for PyBer, a python based ride sharing company. 
 The process was created by data inspection, merging data sets, performing various calculations, and creating data series and dataframes. To execut ethe analysis Python 3.7.6, Anaconda 4.9.2, Matplotlib 3.3.2, Jupyter Notebook, and Pandas libraries were used.
 
 ## PyBer Analysis Results 
-- **Summary DataFrame** 
+- **PyBer Summary DataFrame** 
 ![summarydataframe.png](https://github.com/italiacardenas/PyBer_Analysis/blob/55598d7663b358d387f8314ea67175cf6990647d/readmescreenshots/summary_dataframe.png)
 
 - **PyBer Fare Summary Chart:** 
 ![Pyber_fare_summary.png](https://github.com/italiacardenas/PyBer_Analysis/blob/55598d7663b358d387f8314ea67175cf6990647d/analysis/Pyber_fare_summary.png)
 
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-
+The Pyber Summary DataFrame shows that 
 
 ## School District Analysis Summary
 Four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
