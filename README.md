@@ -7,7 +7,7 @@ The process was created by data inspection, merging data sets, performing variou
 
 ## PyBer Analysis Results 
 - **PyBer Summary DataFrame** 
-![summarydataframe.png](https://github.com/italiacardenas/PyBer_Analysis/blob/55598d7663b358d387f8314ea67175cf6990647d/readmescreenshots/summary_dataframe.png)
+![summarydataframe.png](https://github.com/italiacardenas/PyBer_Analysis/blob/ca6aff57f9c72cfac747f28dab53d8889741735f/readmescreenshots/summary_dataframe.png)
 
 - **PyBer Fare Summary Chart:** 
 ![Pyber_fare_summary.png](https://github.com/italiacardenas/PyBer_Analysis/blob/55598d7663b358d387f8314ea67175cf6990647d/analysis/Pyber_fare_summary.png)
