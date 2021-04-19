@@ -7,10 +7,10 @@ The process was created by data inspection, merging data sets, performing variou
 
 ## PyBer Analysis Results 
 - **Summary DataFrame** 
-![summarydataframe.png](https://github.com/italiacardenas/School_District_Analysis/blob/40db5a4eff0cfd1f65c56c461fcb41b8b160586c/Resources/districtsummary.png)
+![summarydataframe.png](https://github.com/italiacardenas/PyBer_Analysis/blob/55598d7663b358d387f8314ea67175cf6990647d/readmescreenshots/summary_dataframe.png)
 
 - **PyBer Fare Summary Chart:** 
-![Pyber_fare_summary.png](https://github.com/italiacardenas/School_District_Analysis/blob/40db5a4eff0cfd1f65c56c461fcb41b8b160586c/Resources/districtsummary.png)
+![Pyber_fare_summary.png](https://github.com/italiacardenas/PyBer_Analysis/blob/55598d7663b358d387f8314ea67175cf6990647d/analysis/Pyber_fare_summary.png)
 
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
